@@ -1,0 +1,6 @@
+test_module.py
+examples/
+__pycache__
+.ipynb_checkpoints
+poetry.lock
+pyproject.toml
